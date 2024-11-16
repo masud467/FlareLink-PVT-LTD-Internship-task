@@ -51,3 +51,7 @@ Search is based only on the task title. Partial and case-insensitive matches are
 
 5.UI Animations:
 Framer Motion is used for task animations. It is assumed that basic animations suffice for enhancing user experience.
+
+# Screenshots
+![Task Manager](https://github.com/user-attachments/assets/29d1ef6d-b5f9-4748-b36c-0a333478b56f)
+
