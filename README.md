@@ -24,9 +24,9 @@ This is a simple Task Manager application built using React. It allows users to 
 A package manager like npm or yarn.
 ## Installation Steps
 Clone the repository:
-git clone https://github.com/your-username/task-manager.git
+git clone https://github.com/your-username/FlareLink-PVT-LTD-Internship-task.git
 
-cd task-manager
+cd FlareLink-PVT-LTD-Internship-task
 ## Install the dependencies:
 npm install
 ## Start the development server:
