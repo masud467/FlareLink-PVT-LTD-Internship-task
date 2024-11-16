@@ -4,13 +4,19 @@ This is a simple Task Manager application built using React. It allows users to 
 # Features
 ## Basic Features
 1.Task Input: Add tasks with a title and priority level (Low, Medium, High).
+
 2.Task Deletion: Remove tasks from the list.
+
 3.Task Persistence: Tasks are stored in local storage and remain available after refreshing the page.
 ## Stretch Goals
 1.Task Search: Search tasks using a search bar.
+
 2.Task Completion: Mark tasks as completed or uncompleted.
+
 3.Priority Setting: Assign priority levels to tasks (Low, Medium, High).
+
 4.Task Sorting: Sort tasks by title, completion status, or priority.
+
 5.UI Animation: Animated transitions for task addition and deletion using Framer Motion.
 
 ## Setup and Launch Process
