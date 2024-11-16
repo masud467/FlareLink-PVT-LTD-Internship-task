@@ -25,11 +25,13 @@ A package manager like npm or yarn.
 ## Installation Steps
 Clone the repository:
 git clone https://github.com/your-username/task-manager.git
+
 cd task-manager
 ## Install the dependencies:
 npm install
 ## Start the development server:
 npm run dev
+
 Open the app in your browser at http://localhost:5173/5172 etc.
 
 # Assumptions
